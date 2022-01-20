@@ -1,0 +1,23 @@
+.x{
+    height: 30vh;
+    background-color: #ff0012;
+    display: flex;
+}
+.top_left{
+    background-color: #15ce00;
+    height: 30vh;
+    width: 50%;
+}
+.top_right{
+    background-color: #c24545;
+    height: 30vh;
+    width: 50%;
+}
+.y{
+    height: 30vh;
+    background-color: #0016ff;
+}
+.z{
+    height: 30vh;
+    background-color: #15ce00;
+}
